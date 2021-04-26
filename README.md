@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayank Pathak!!
+![Twitter URL](https://img.shields.io/twitter/url?label=Check-out%20my%20twitter%20handle&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayankp4513)
 
 <!--
 **mayankpathak4513/mayankpathak4513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

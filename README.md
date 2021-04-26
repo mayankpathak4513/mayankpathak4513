@@ -2,7 +2,8 @@
 -------
 [![Twitter URL](https://img.shields.io/twitter/url?label=Check-out%20my%20twitter%20handle&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayankp4513)](https://twitter.com/mayankp4513)
 
-A Developer skilled in C, C++, Python, Database, Data-science , Web-Development.Having Professional experience with the technologies listed in the **toolbox** below.
+A Developer skilled in C, C++, Python, Database, Data-science , Web-Development. Having Professional experience with the technologies listed in the **toolbox** below.
+Love to ***code*** in my free time.
 
 I like to create tech content mostly about the coding and programming and try to help peeks out there with the suitable content. I'd advise you to ***subscribe*** and ***follow*** to keep updated. Interested in hackathons and loves to contribute to the open source environment.
 

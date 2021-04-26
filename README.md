@@ -16,9 +16,9 @@ I managed to create an online presence with my [website](https://bestcodesource.
 -------
 
 📘 Latest Post on the Blog
-<!-- BLOG-ARTICLES-LIST:START-->
+<!-- BLOG-POST-LIST:START-->
 
-<!-- BLOG-ARTICLES-LIST:END-->
+<!-- BLOG-POST-LIST:END-->
 
 
 ▶[.....more blog post](https://bestcodesource.blogspot.com/)

@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://b
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Program to calculate the difference between two consecutive number in an array](https://bestcodesource.blogspot.com/2021/05/program-to-calculate-difference-between.html)
 - [Compare the Triplets - HackerRank Solution in C++](https://bestcodesource.blogspot.com/2021/04/compare-triplets-hackerrank-solution-in.html)
 - [Simple Array Sum - HackerRank Solution in C++](https://bestcodesource.blogspot.com/2021/04/simple-array-sum-hackerrank-solution-in.html)
 - [Solve Me First - HackerRank Solution in C++](https://bestcodesource.blogspot.com/2021/04/solve-me-first-hackerrank-solution-in-c.html)
 - [Top Best Online Coding Platform - Learn and Code !](https://bestcodesource.blogspot.com/2021/04/top-best-online-coding-platform-learn.html)
-- [Program to Sort an array](https://bestcodesource.blogspot.com/2021/04/program-to-sort-array.html)
 <!-- BLOG-POST-LIST:END-->
 
 

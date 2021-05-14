@@ -7,9 +7,9 @@ Love to ***code*** 👨‍💻 in my free time.
 
 I like to create tech content mostly about the coding and programming and try to help peeks out there with the suitable content. I'd advise you to ***subscribe*** and ***follow*** to keep updated. Interested in hackathons and loves to contribute to the open source environment.
 
-I managed to create an online presence with my [website](https://bestcodesource.blogspot.com/), which is accessed by a lot of people.Looking forward to reach and help more peeks by sharing my knowledge.
+I managed to create an online presence with my [website](https://www.thecodingbro.xyz/), which is accessed by a lot of people.Looking forward to reach and help more peeks by sharing my knowledge.
 
-You can reach to me at my website or can ask me anything by [clicking](https://bestcodesource.blogspot.com/p/contact-us.html) here.
+You can reach to me at my website or can ask me anything by [clicking]() here.
 
 
 -------

@@ -9,7 +9,7 @@ I like to create tech content mostly about the coding and programming and try to
 
 I managed to create an online presence with my [website](https://www.thecodingbro.xyz/), which is accessed by a lot of people.Looking forward to reach and help more peeks by sharing my knowledge.
 
-You can reach to me at my website or can ask me anything by [clicking]() here.
+You can reach to me at my website or can ask me anything by [clicking](https://www.thecodingbro.xyz/p/contact-us.html) here.
 
 
 -------
@@ -36,7 +36,7 @@ You can reach to me at my website or can ask me anything by [clicking]() here.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak4513&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankpathak4513&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Mayank's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayankpathak4513&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mayankpathak4513/mayankpathak4513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

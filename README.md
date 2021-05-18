@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [How to generate RSS Feed for your Blogger/Website](http://feedproxy.google.com/~r/thecodingbro/~3/XUVItvS57jU/how-to-generate-rss-feed-for-your.html)
 - [Program to find difference between two consecutive number](http://feedproxy.google.com/~r/thecodingbro/~3/ZfsSecTKZRk/program-to-calculate-difference-between.html)
 - [Compare the Triplets - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/zShrFVUzPDE/compare-triplets-hackerrank-solution-in.html)
 - [Simple Array Sum - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/1k07gBu6v60/simple-array-sum-hackerrank-solution-in.html)
 - [Solve Me First - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/nviNf9LbpOQ/solve-me-first-hackerrank-solution-in-c.html)
-- [Top Best Online Coding Platform - Learn and Code !](http://feedproxy.google.com/~r/thecodingbro/~3/aAqTWJeCz4U/top-best-online-coding-platform-learn.html)
 <!-- BLOG-POST-LIST:END-->
 
 

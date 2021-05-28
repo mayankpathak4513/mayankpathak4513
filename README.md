@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Program to find maximum element of each column in matrix](http://feedproxy.google.com/~r/thecodingbro/~3/QLnjpCKnQR4/program-to-find-maximum-element-of-each-column-in-matrix.html)
+- [Program to check matrix is magic square or not](http://feedproxy.google.com/~r/thecodingbro/~3/5QpZIoZwYJE/program-to-check-matrix-is-magic-square.html)
+- [Program to insert an element in an Array](http://feedproxy.google.com/~r/thecodingbro/~3/koHtv3yLa-g/program-to-insert-an-element-in-an-array.html)
 - [Program on stock span problem](http://feedproxy.google.com/~r/thecodingbro/~3/apmE88o9tQc/program-on-stock-span-problem.html)
 - [Program to print sum of even and odd elements in an array](http://feedproxy.google.com/~r/thecodingbro/~3/n1WbczCVivI/program-to-print-sum-of-even-and-odd-elements-in-an-array.html)
-- [Program on Array : Serena and Mugs](http://feedproxy.google.com/~r/thecodingbro/~3/l7bGYGOSsWQ/program-on-array-serena-and-mugs.html)
-- [Program to find the Transpose of Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/_dNZ2bHLg6c/program-to-find-transpose-of-matrix.html)
-- [Program to Add Two Matrix using the multi-dimensional array](http://feedproxy.google.com/~r/thecodingbro/~3/zaAo7JJCcmM/program-to-add-two-matrix-using-the-multi-dimensional-array.html)
 <!-- BLOG-POST-LIST:END-->
 
 

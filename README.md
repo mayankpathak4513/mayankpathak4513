@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
-- [Find Nth term of Fibonacci series](http://feedproxy.google.com/~r/thecodingbro/~3/iJa88Dn3dOo/find-nth-term-of-fibonacci-series.html)
-- [Swap two numbers using call by reference](http://feedproxy.google.com/~r/thecodingbro/~3/Vq1CWKm0psQ/swap-two-numbers-using-call-by-reference.html)
-- [Program to find the Armstrong number](http://feedproxy.google.com/~r/thecodingbro/~3/sns32INwj9Y/program-to-find-armstrong-number.html)
-- [Program to find GCD of three numbers](http://feedproxy.google.com/~r/thecodingbro/~3/Dku6jNjc0qU/program-to-find-gcd-of-three-numbers.html)
-- [Program to find exponent of given number](http://feedproxy.google.com/~r/thecodingbro/~3/I_J9pNbDUtE/program-to-find-exponent-of-given-number.html)
+- [Program on stock span problem](http://feedproxy.google.com/~r/thecodingbro/~3/apmE88o9tQc/program-on-stock-span-problem.html)
+- [Program to print sum of even and odd elements in an array](http://feedproxy.google.com/~r/thecodingbro/~3/n1WbczCVivI/program-to-print-sum-of-even-and-odd-elements-in-an-array.html)
+- [Program on Array : Serena and Mugs](http://feedproxy.google.com/~r/thecodingbro/~3/l7bGYGOSsWQ/program-on-array-serena-and-mugs.html)
+- [Program to find the Transpose of Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/_dNZ2bHLg6c/program-to-find-transpose-of-matrix.html)
+- [Program to Add Two Matrix using the multi-dimensional array](http://feedproxy.google.com/~r/thecodingbro/~3/zaAo7JJCcmM/program-to-add-two-matrix-using-the-multi-dimensional-array.html)
 <!-- BLOG-POST-LIST:END-->
 
 

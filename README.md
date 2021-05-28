@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Program to find Minimum of Two Numbers](http://feedproxy.google.com/~r/thecodingbro/~3/5Yoj_vA2-po/program-to-find-minimum-of-two-numbers.html)
+- [Program for Sum of numbers using Loop](http://feedproxy.google.com/~r/thecodingbro/~3/Y-krT7mp8aE/program-for-sum-of-numbers-using-loop.html)
 - [Program for Complex number calculator](http://feedproxy.google.com/~r/thecodingbro/~3/ImRJC9Gnpgk/program-for-complex-number-calculator.html)
 - [Program to find maximum element of each column in matrix](http://feedproxy.google.com/~r/thecodingbro/~3/QLnjpCKnQR4/program-to-find-maximum-element-of-each-column-in-matrix.html)
 - [Program to check matrix is magic square or not](http://feedproxy.google.com/~r/thecodingbro/~3/5QpZIoZwYJE/program-to-check-matrix-is-magic-square.html)
-- [Program to insert an element in an Array](http://feedproxy.google.com/~r/thecodingbro/~3/koHtv3yLa-g/program-to-insert-an-element-in-an-array.html)
-- [Program on stock span problem](http://feedproxy.google.com/~r/thecodingbro/~3/apmE88o9tQc/program-on-stock-span-problem.html)
 <!-- BLOG-POST-LIST:END-->
 
 

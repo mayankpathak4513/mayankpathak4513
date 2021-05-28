@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [How to Generate RSS Feed for your Blog](http://feedproxy.google.com/~r/thecodingbro/~3/AKFuJydTIHg/how-to-generate-rss-feed-for-your-blog.html)
+- [Compare the Triplets : HackerRank Solution](http://feedproxy.google.com/~r/thecodingbro/~3/Z5WYIna-r-E/compare-the-triplets-hackerrank-solution.html)
 - [Simple Array Sum - HackerRank Solution](http://feedproxy.google.com/~r/thecodingbro/~3/GMa0ksLJcwQ/simple-array-sum-hackerrank-solution.html)
 - [Top Best Online Coding Platforms - Learn and Code !](http://feedproxy.google.com/~r/thecodingbro/~3/zG3okkHHXlM/top-best-online-coding-platforms.html)
 - [Program to Sort an array](http://feedproxy.google.com/~r/thecodingbro/~3/AiciZeQpwZA/program-to-sort-array.html)
-- [Program to find largest and smallest element](http://feedproxy.google.com/~r/thecodingbro/~3/kytPhIORO5E/program-to-find-largest-and-smallest-element.html)
-- [freeCodeCamp - The Ultimate Free tutorials](http://feedproxy.google.com/~r/thecodingbro/~3/pb694NsYZww/freecodecamp-the-ultimate-free-tutorials.html)
 <!-- BLOG-POST-LIST:END-->
 
 

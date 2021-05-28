@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
-- [How to generate RSS Feed for your Blogger/Website](http://feedproxy.google.com/~r/thecodingbro/~3/XUVItvS57jU/how-to-generate-rss-feed-for-your.html)
-- [Program to find difference between two consecutive number](http://feedproxy.google.com/~r/thecodingbro/~3/ZfsSecTKZRk/program-to-calculate-difference-between.html)
-- [Compare the Triplets - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/zShrFVUzPDE/compare-triplets-hackerrank-solution-in.html)
-- [Simple Array Sum - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/1k07gBu6v60/simple-array-sum-hackerrank-solution-in.html)
-- [Solve Me First - HackerRank Solution in C++](http://feedproxy.google.com/~r/thecodingbro/~3/nviNf9LbpOQ/solve-me-first-hackerrank-solution-in-c.html)
+- [Add numbers using Bitwise operator](http://feedproxy.google.com/~r/thecodingbro/~3/5OcFmPFL8So/add-numbers-using-bitwise-operator.html)
+- [Sum of even and odd digits of number](http://feedproxy.google.com/~r/thecodingbro/~3/eyuRKGnvA60/sum-of-even-and-odd-digits-of-number.html)
+- [Program to find Kaprekar Number](http://feedproxy.google.com/~r/thecodingbro/~3/L6j305IQfi4/program-to-find-kaprekar-number.html)
+- [Program for Viva Score on Odd Numbers](http://feedproxy.google.com/~r/thecodingbro/~3/vECQhajViMo/program-for-viva-score-on-odd-numbers.html)
+- [Program to find Harshad Number in C++](http://feedproxy.google.com/~r/thecodingbro/~3/9DtE2ij5PRs/program-to-find-harshad-number.html)
 <!-- BLOG-POST-LIST:END-->
 
 

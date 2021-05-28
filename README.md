@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
-- [Add numbers using Bitwise operator](http://feedproxy.google.com/~r/thecodingbro/~3/5OcFmPFL8So/add-numbers-using-bitwise-operator.html)
-- [Sum of even and odd digits of number](http://feedproxy.google.com/~r/thecodingbro/~3/eyuRKGnvA60/sum-of-even-and-odd-digits-of-number.html)
-- [Program to find Kaprekar Number](http://feedproxy.google.com/~r/thecodingbro/~3/L6j305IQfi4/program-to-find-kaprekar-number.html)
-- [Program for Viva Score on Odd Numbers](http://feedproxy.google.com/~r/thecodingbro/~3/vECQhajViMo/program-for-viva-score-on-odd-numbers.html)
-- [Program to find Harshad Number in C++](http://feedproxy.google.com/~r/thecodingbro/~3/9DtE2ij5PRs/program-to-find-harshad-number.html)
+- [Find Nth term of Fibonacci series](http://feedproxy.google.com/~r/thecodingbro/~3/iJa88Dn3dOo/find-nth-term-of-fibonacci-series.html)
+- [Swap two numbers using call by reference](http://feedproxy.google.com/~r/thecodingbro/~3/Vq1CWKm0psQ/swap-two-numbers-using-call-by-reference.html)
+- [Program to find the Armstrong number](http://feedproxy.google.com/~r/thecodingbro/~3/sns32INwj9Y/program-to-find-armstrong-number.html)
+- [Program to find GCD of three numbers](http://feedproxy.google.com/~r/thecodingbro/~3/Dku6jNjc0qU/program-to-find-gcd-of-three-numbers.html)
+- [Program to find exponent of given number](http://feedproxy.google.com/~r/thecodingbro/~3/I_J9pNbDUtE/program-to-find-exponent-of-given-number.html)
 <!-- BLOG-POST-LIST:END-->
 
 

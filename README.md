@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
-- [Program to find Minimum of Two Numbers](http://feedproxy.google.com/~r/thecodingbro/~3/5Yoj_vA2-po/program-to-find-minimum-of-two-numbers.html)
-- [Program for Sum of numbers using Loop](http://feedproxy.google.com/~r/thecodingbro/~3/Y-krT7mp8aE/program-for-sum-of-numbers-using-loop.html)
-- [Program for Complex number calculator](http://feedproxy.google.com/~r/thecodingbro/~3/ImRJC9Gnpgk/program-for-complex-number-calculator.html)
-- [Program to find maximum element of each column in matrix](http://feedproxy.google.com/~r/thecodingbro/~3/QLnjpCKnQR4/program-to-find-maximum-element-of-each-column-in-matrix.html)
-- [Program to check matrix is magic square or not](http://feedproxy.google.com/~r/thecodingbro/~3/5QpZIoZwYJE/program-to-check-matrix-is-magic-square.html)
+- [Simple Array Sum - HackerRank Solution](http://feedproxy.google.com/~r/thecodingbro/~3/GMa0ksLJcwQ/simple-array-sum-hackerrank-solution.html)
+- [Top Best Online Coding Platforms - Learn and Code !](http://feedproxy.google.com/~r/thecodingbro/~3/zG3okkHHXlM/top-best-online-coding-platforms.html)
+- [Program to Sort an array](http://feedproxy.google.com/~r/thecodingbro/~3/AiciZeQpwZA/program-to-sort-array.html)
+- [Program to find largest and smallest element](http://feedproxy.google.com/~r/thecodingbro/~3/kytPhIORO5E/program-to-find-largest-and-smallest-element.html)
+- [freeCodeCamp - The Ultimate Free tutorials](http://feedproxy.google.com/~r/thecodingbro/~3/pb694NsYZww/freecodecamp-the-ultimate-free-tutorials.html)
 <!-- BLOG-POST-LIST:END-->
 
 

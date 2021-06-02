@@ -29,7 +29,7 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 <!-- BLOG-POST-LIST:END-->
 
 
-▶[.....more blog post](https://bestcodesource.blogspot.com/)
+▶[.....more blog post](https://www.thecodingbro.xyz/)
 
 -------
 ## &#x1f4c8; My GitHub Stats

@@ -21,11 +21,11 @@ You can reach to me at my website or can ask me anything by [clicking](https://w
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [All About Competitive Coding](http://feedproxy.google.com/~r/thecodingbro/~3/FzDYtD0YI0g/all-about-competitive-coding.html)
 - [Github Repositories Every Developer Should Know](http://feedproxy.google.com/~r/thecodingbro/~3/3KZ9LbbvcZI/github-repositories-every-developer-should-know.html)
 - [Import Articles from Blogger to Hashnode](http://feedproxy.google.com/~r/thecodingbro/~3/wryuxUn4Ve8/import-articles-from-blogger-to-hashnode.html)
 - [Show your LinkedIn Badge on Hashnode](http://feedproxy.google.com/~r/thecodingbro/~3/3YgobCnkacM/show-your-linkedin-badge-on-hashnode.html)
 - [How to Generate RSS Feed for your Blog](http://feedproxy.google.com/~r/thecodingbro/~3/AKFuJydTIHg/how-to-generate-rss-feed-for-your-blog.html)
-- [Compare the Triplets : HackerRank Solution](http://feedproxy.google.com/~r/thecodingbro/~3/Z5WYIna-r-E/compare-the-triplets-hackerrank-solution.html)
 <!-- BLOG-POST-LIST:END-->
 
 

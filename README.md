@@ -13,6 +13,7 @@ I managed to create an online presence with my [website](https://www.thecodingbr
 You can reach to me at my website or can ask me anything by [clicking](https://www.thecodingbro.xyz/p/contact-us.html) here.
 
 ## I'm also available on these platforms 
+[![The Coding Bro](https://img.shields.io/badge/-The%20Coding%20Bro-f67938)](https://www.thecodingbro.xyz/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=2962ff&color=2962FF)](https://hashnode.com/@mayankpathak)
 [![dev.to](https://img.shields.io/badge/dev.to-Profile-informational?style=flat&logo=DEV.to&logoColor=000&color=000)](https://dev.to/mayankpathak)
 

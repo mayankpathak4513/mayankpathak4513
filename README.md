@@ -10,7 +10,7 @@ I like to create tech content mostly about the coding and programming and try to
 
 I managed to create an online presence with my [website](https://www.thecodingbro.xyz/), which is accessed by a lot of people. Looking forward to reach and help more peeks by sharing my knowledge.
 
-You can reach to me at my website or can ask me anything by [clicking](https://www.thecodingbro.xyz/p/contact-us.html) here.
+You can reach to me at my website or can ask me anything by [![clicking](https://img.shields.io/badge/-Clicking%20here-f67938)](https://www.thecodingbro.xyz/p/contact-us.html)
 
 ## I'm also available on these platforms 👇
 [![The Coding Bro](https://img.shields.io/badge/-The%20Coding%20Bro-f67938)](https://www.thecodingbro.xyz/)

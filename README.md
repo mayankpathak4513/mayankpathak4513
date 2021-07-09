@@ -27,11 +27,11 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Sum of Rows and Columns in a Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/TWR4bf7BFMU/sum-of-rows-and-columns-in-a-matrix.html)
 - [Program to find maximum element in matrix](http://feedproxy.google.com/~r/thecodingbro/~3/UvzD4SRRQSo/program-to-find-maximum-element-in-matrix.html)
 - [Start Your Blog for Free : Best Platforms](http://feedproxy.google.com/~r/thecodingbro/~3/kztcdcbrw-E/start-your-blog-for-free-best-platforms.html)
 - [All About Competitive Coding](http://feedproxy.google.com/~r/thecodingbro/~3/FzDYtD0YI0g/all-about-competitive-coding.html)
 - [Github Repositories Every Developer Should Know](http://feedproxy.google.com/~r/thecodingbro/~3/3KZ9LbbvcZI/github-repositories-every-developer-should-know.html)
-- [Import Articles from Blogger to Hashnode](http://feedproxy.google.com/~r/thecodingbro/~3/wryuxUn4Ve8/import-articles-from-blogger-to-hashnode.html)
 <!-- BLOG-POST-LIST:END-->
 
 

@@ -27,11 +27,11 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Sum of Each Rows in a Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/6Cn84qbJltw/sum-of-each-rows-in-a-matrix.html)
 - [Program to check a triangle](http://feedproxy.google.com/~r/thecodingbro/~3/AdGolTTn964/program-to-check-a-triangle.html)
 - [Sum of Rows and Columns in a Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/TWR4bf7BFMU/sum-of-rows-and-columns-in-a-matrix.html)
 - [Program to find maximum element in matrix](http://feedproxy.google.com/~r/thecodingbro/~3/UvzD4SRRQSo/program-to-find-maximum-element-in-matrix.html)
 - [Start Your Blog for Free : Best Platforms](http://feedproxy.google.com/~r/thecodingbro/~3/kztcdcbrw-E/start-your-blog-for-free-best-platforms.html)
-- [All About Competitive Coding](http://feedproxy.google.com/~r/thecodingbro/~3/FzDYtD0YI0g/all-about-competitive-coding.html)
 <!-- BLOG-POST-LIST:END-->
 
 

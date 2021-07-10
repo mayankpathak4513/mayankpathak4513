@@ -19,7 +19,7 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=1DA1F2)](https://twitter.com/mayankp4513)
 
 -------
-🧰 Toolbox
+### 🧰My Tech Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C logo" width="50" height="50" />  <img src= "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++ logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" alt="Jupyter logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github logo" width="50" height="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="Mysql logo" width="50" height="50" />
 

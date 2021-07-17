@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayank Pathak!!
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayank Pathak!! ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mayankpathak4513.repoName)
 -------
 # [![Visits Badge](https://badges.pufler.dev/visits/mayankpathak4513/mayankpathak4513)](https://www.thecodingbro.xyz) [![Twitter URL](https://img.shields.io/twitter/url?label=Check-out%20my%20twitter%20handle&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayankp4513)](https://twitter.com/mayankp4513) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mayank-pathak4513/) ![GitHub User's stars](https://img.shields.io/github/stars/mayankpathak4513?affiliations=OWNER&style=social)
 
@@ -17,7 +17,6 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 [![Hashnode](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=2962ff&color=2962FF)](https://hashnode.com/@mayankpathak)
 [![dev.to](https://img.shields.io/badge/dev.to-Profile-informational?style=flat&logo=DEV.to&logoColor=000&color=000)](https://dev.to/mayankpathak)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=1DA1F2)](https://twitter.com/mayankp4513)
-
 -------
 ## 🧰My Tech Toolbox
 

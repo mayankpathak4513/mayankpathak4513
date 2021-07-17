@@ -38,11 +38,11 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 -------
 ## &#x1f4c8; My GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak4513&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak4513&show_icons=true&theme=gotham" alt="Mayank Pathak" width="45%" align="right"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak4513&theme=dark" width="48%" >
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kritika-pattalam&layout=compact)
+
 
 <!--
 **mayankpathak4513/mayankpathak4513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

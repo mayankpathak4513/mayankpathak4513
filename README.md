@@ -41,7 +41,7 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 <img src="https://github-readme-stats.vercel.app/api?username=mayankpathak4513&show_icons=true&theme=gotham" alt="Mayank Pathak" width="45%" align="right"/>
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=mayankpathak4513&theme=dark" width="48%" >
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak4513&layout=compact)
+ <div><img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mayankpathak4513&layout=compact" width="400px" height="190px" /></div>
 
 
 <!--

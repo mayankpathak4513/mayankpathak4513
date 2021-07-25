@@ -26,11 +26,11 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Overview and Basics of Markdown](http://feedproxy.google.com/~r/thecodingbro/~3/525h-WfO260/overview-and-basics-of-markdown.html)
 - [Temperature Monitoring using Python](http://feedproxy.google.com/~r/thecodingbro/~3/DurlywPhcQI/temperature-monitoring-using-python.html)
 - [Reverse a string using iterator function](http://feedproxy.google.com/~r/thecodingbro/~3/ZeR-iDmPbGw/reverse-a-string-using-iterator-function.html)
 - [Sum of Each Rows in a Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/6Cn84qbJltw/sum-of-each-rows-in-a-matrix.html)
 - [Program to check a triangle](http://feedproxy.google.com/~r/thecodingbro/~3/AdGolTTn964/program-to-check-a-triangle.html)
-- [Sum of Rows and Columns in a Matrix](http://feedproxy.google.com/~r/thecodingbro/~3/TWR4bf7BFMU/sum-of-rows-and-columns-in-a-matrix.html)
 <!-- BLOG-POST-LIST:END-->
 
 

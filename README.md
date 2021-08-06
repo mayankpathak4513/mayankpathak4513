@@ -14,7 +14,7 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 ## I'm also available on these platforms 👇
 [![The Coding Bro](https://img.shields.io/badge/-The%20Coding%20Bro-f67938)](https://www.thecodingbro.xyz/)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Profile-informational?style=flat&logo=hashnode&logoColor=2962ff&color=2962FF)](https://hashnode.com/@mayankpathak)
+<a href="https://mayankpathak.hashnode.dev/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Hashnode-%230077b5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
 [![dev.to](https://img.shields.io/badge/dev.to-Profile-informational?style=flat&logo=DEV.to&logoColor=000&color=000)](https://dev.to/mayankpathak)
 [![Twitter](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=1DA1F2&color=1DA1F2)](https://twitter.com/mayankp4513)
 -------

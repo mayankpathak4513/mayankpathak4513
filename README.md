@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayank Pathak!!
--------
-# ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mayankpathak4513.repoName) [![Twitter URL](https://img.shields.io/twitter/url?label=Check-out%20my%20twitter%20handle&style=social&url=https%3A%2F%2Ftwitter.com%2Fmayankp4513)](https://twitter.com/mayankp4513) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mayank-pathak4513/) ![GitHub User's stars](https://img.shields.io/github/stars/mayankpathak4513?affiliations=OWNER&style=social)
+
+## Check my work, 💨[Visit here](https://thecodingbro.xyz)✨✨   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mayankpathak4513.repoName) ![GitHub User's stars](https://img.shields.io/github/stars/mayankpathak4513?affiliations=OWNER&style=social)
 
 
 A Developer skilled in C, C++, Python, Database, Data-science and Web-Development. Having Professional experience with the technologies listed in the **toolbox** below.

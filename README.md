@@ -24,7 +24,7 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 
 -------
 
-📘 Latest Post on the Blog
+## 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
 - [Sum of Digits in a String](http://feedproxy.google.com/~r/thecodingbro/~3/BEuRjPxvlcg/sum-of-digits-in-a-string.html)
 - [Overview and Basics of Markdown](http://feedproxy.google.com/~r/thecodingbro/~3/525h-WfO260/overview-and-basics-of-markdown.html)

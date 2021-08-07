@@ -12,6 +12,8 @@ I managed to create an online presence with my [website](https://www.thecodingbr
 
 You can reach to me at my website or can ask me anything by [![clicking](https://img.shields.io/badge/-Clicking%20here-f67938)](https://www.thecodingbro.xyz/p/contact-us.html)
 
+---
+
 ## Where You can Find me Around 🌎
 [![The Coding Bro](https://img.shields.io/badge/-The%20Coding%20Bro-f67938)](https://www.thecodingbro.xyz/)
 <a href="https://twitter.com/mayankp4513" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;

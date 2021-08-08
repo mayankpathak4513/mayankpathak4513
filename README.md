@@ -10,11 +10,11 @@ I like to create tech content mostly about the coding and programming and try to
 
 I managed to create an online presence with my [website](https://www.thecodingbro.xyz/), which is accessed by a lot of people. Looking forward to reach and help more peeks by sharing my knowledge.
 
-You can reach to me at my website or can ask me anything by [![clicking](https://img.shields.io/badge/-Clicking%20here-f67938)](https://www.thecodingbro.xyz/p/contact-us.html)
+You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anything by [![clicking here](https://img.shields.io/badge/-Clicking%20here-f67938)](https://www.thecodingbro.xyz/p/contact-us.html)
 
 ---
 
-## Where You can Find me Around 🌎
+## 🌎Where You can Find me Around🌎
 <a href="https://www.linkedin.com/in/mayank-pathak4513/" target="_blank"><img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;
 <a href="https://twitter.com/mayankp4513" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
 <a href="mailto:mayankpathak4513@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;

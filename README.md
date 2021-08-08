@@ -19,7 +19,7 @@ You can reach to me at my website or can ask me anything by [![clicking](https:/
 <a href="https://twitter.com/mayankp4513" target="_blank"><img height="30" src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> &nbsp;
 <a href="mailto:mayankpathak4513@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 <a href="https://mayankpathak.hashnode.dev/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Hashnode-%230077b5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a>
-[![dev.to](https://img.shields.io/badge/dev.to-Profile-informational?style=flat&logo=DEV.to&logoColor=000&color=000)](https://dev.to/mayankpathak)
+<a href="https://thecodingbro.xyz" target="_blank"><img height="30" src = "https://img.shields.io/badge/TheCodingBro-orange.svg?&style=for-the-badge&logo=TheCodingBro&logoColor=white"></a> &nbsp;
 -------
 ## 🧰My Tech Toolbox
 

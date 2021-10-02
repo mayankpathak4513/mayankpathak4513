@@ -30,11 +30,11 @@ You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anyt
 
 ## 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Replace character of a string](http://feedproxy.google.com/~r/thecodingbro/~3/EL_N_91ZAF8/replace-character-of-string.html)
 - [Hidden Websites to increase Productivity](http://feedproxy.google.com/~r/thecodingbro/~3/aPvuzAqyZo0/hidden-websites-to-increase-productivity.html)
 - [Sum of Digits in a String](http://feedproxy.google.com/~r/thecodingbro/~3/BEuRjPxvlcg/sum-of-digits-in-a-string.html)
 - [Overview and Basics of Markdown](http://feedproxy.google.com/~r/thecodingbro/~3/525h-WfO260/overview-and-basics-of-markdown.html)
 - [Temperature Monitoring using Python](http://feedproxy.google.com/~r/thecodingbro/~3/DurlywPhcQI/temperature-monitoring-using-python.html)
-- [Reverse a string using iterator function](http://feedproxy.google.com/~r/thecodingbro/~3/ZeR-iDmPbGw/reverse-a-string-using-iterator-function.html)
 <!-- BLOG-POST-LIST:END-->
 
 

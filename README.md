@@ -30,11 +30,11 @@ You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anyt
 
 ## 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
-- [How to Restore or Recover Deleted Files](http://feedproxy.google.com/~r/thecodingbro/~3/B6_622g3jVk/how-to-restore-or-recover-deleted-files.html)
-- [Locating Maps using Python](http://feedproxy.google.com/~r/thecodingbro/~3/9aygQieg374/locating-maps-using-python.html)
-- [Replace character of a string](http://feedproxy.google.com/~r/thecodingbro/~3/EL_N_91ZAF8/replace-character-of-string.html)
-- [Hidden Websites to increase Productivity](http://feedproxy.google.com/~r/thecodingbro/~3/aPvuzAqyZo0/hidden-websites-to-increase-productivity.html)
-- [Sum of Digits in a String](http://feedproxy.google.com/~r/thecodingbro/~3/BEuRjPxvlcg/sum-of-digits-in-a-string.html)
+- [How to Restore or Recover Deleted Files](https://www.thecodingbro.xyz/2021/10/how-to-restore-or-recover-deleted-files.html)
+- [Locating Maps using Python](https://www.thecodingbro.xyz/2021/10/locating-maps-using-python.html)
+- [Replace character of a string](https://www.thecodingbro.xyz/2021/10/replace-character-of-string.html)
+- [Hidden Websites to increase Productivity](https://www.thecodingbro.xyz/2021/08/hidden-websites-to-increase-productivity.html)
+- [Sum of Digits in a String](https://www.thecodingbro.xyz/2021/07/sum-of-digits-in-a-string.html)
 <!-- BLOG-POST-LIST:END-->
 
 

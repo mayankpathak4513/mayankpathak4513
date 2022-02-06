@@ -30,11 +30,11 @@ You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anyt
 
 ## 📘 Latest Post on the Blog
 <!-- BLOG-POST-LIST:START-->
+- [Plus Minus - HackerRank Solution](https://www.thecodingbro.xyz/2022/02/plus-minus-hackerrank-solution.html)
 - [Diagonal Difference - HackerRank Solution](https://www.thecodingbro.xyz/2022/01/diagonal-difference-hackerrank-solution.html)
 - [A Very Big Sum - HackerRank Solution](https://www.thecodingbro.xyz/2022/01/a-very-big-sum-hackerrank-solution.html)
 - [How to Restore or Recover Deleted Files](https://www.thecodingbro.xyz/2021/10/how-to-restore-or-recover-deleted-files.html)
 - [Locating Maps using Python](https://www.thecodingbro.xyz/2021/10/locating-maps-using-python.html)
-- [Replace character of a string](https://www.thecodingbro.xyz/2021/10/replace-character-of-string.html)
 <!-- BLOG-POST-LIST:END-->
 
 

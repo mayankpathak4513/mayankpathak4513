@@ -1,6 +1,6 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayank Pathak!!
 
-## Check my work, 💨[Visit here](https://thecodingbro.xyz)✨✨   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mayankpathak4513.repoName) ![GitHub User's stars](https://img.shields.io/github/stars/mayankpathak4513?affiliations=OWNER&style=social)
+## Check my work, 💨[Visit here](https://---)✨✨   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=mayankpathak4513.repoName) ![GitHub User's stars](https://img.shields.io/github/stars/mayankpathak4513?affiliations=OWNER&style=social)
 
 
 A Developer skilled in C, C++, Python, Database, Data-science and Web-Development. Having Professional experience with the technologies listed in the **toolbox** below.
@@ -8,9 +8,9 @@ Love to **Code 👨‍💻** in my free time.
 
 I like to create tech content mostly about the coding and programming and try to help peeks out there with the suitable content. I'd advise you to ***subscribe*** and ***follow*** to keep updated. Interested in hackathons and loves to contribute to the open source environment.
 
-I managed to create an online presence with my [website](https://www.thecodingbro.xyz/), which is accessed by a lot of people. Looking forward to reach and help more peeks by sharing my knowledge.
+I managed to create an online presence with my [website](https://---/), which is accessed by a lot of people. Looking forward to reach and help more peeks by sharing my knowledge.
 
-You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anything by [![clicking here](https://img.shields.io/badge/-Clicking%20here-f67938)](https://www.thecodingbro.xyz/p/contact-us.html)
+You can reach to me at my [website](https://---) or can ask me anything by [![clicking here](https://img.shields.io/badge/-Clicking%20here-f67938)](https://---)
 
 ---
 
@@ -20,7 +20,7 @@ You can reach to me at my [website](https://thecodingbro.xyz) or can ask me anyt
 <a href="mailto:mayankpathak4513@gmail.com" style="text-decoration:none"><img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a> &nbsp;
 <a href="https://mayankpathak.hashnode.dev/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Hashnode-%230077b5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white"></a> &nbsp;
 <a href="https://dev.to/mayankpathak" target="_blank"><img height="30" src = "https://img.shields.io/badge/DEV.to-black.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a> &nbsp;
-<a href="https://thecodingbro.xyz" target="_blank"><img height="30" src = "https://img.shields.io/badge/TheCodingBro-orange.svg?&style=for-the-badge&logo=TheCodingBro&logoColor=white"></a> &nbsp;
+<a href="https://---" target="_blank"><img height="30" src = "https://img.shields.io/badge/TheCodingBro-orange.svg?&style=for-the-badge&logo=TheCodingBro&logoColor=white"></a> &nbsp;
 -------
 ## 🧰My Tech Toolbox
 
